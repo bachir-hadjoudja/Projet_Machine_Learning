@@ -1,5 +1,5 @@
 # Projet_Machine_Learning
-Ce rapport vise à décrire les différentes étapes indispensables pour entraîner un modèle capable de
+Ce projet vise à décrire les différentes étapes indispensables pour entraîner un modèle capable de
 détecter des Fake News. Dans un premier temps, nous procéderons à une sélection rigoureuse de
 nos données, qui consistent en des articles étiquetés selon leur véracité (VRAI, FAUX, MIXTURE
 ou OTHER). Nous entreprendrons ensuite un pré-traitement de ces données afin de les rendre plus
